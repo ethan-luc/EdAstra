@@ -93,6 +93,14 @@ a {
   margin-bottom: 0.5rem;
 }
 
+.js-success-message {
+  color: chartreuse;
+}
+
+.js-error-message {
+  color: firebrick;
+}
+
 @keyframes rotate {
   100% {
     transform: rotate(360deg);
