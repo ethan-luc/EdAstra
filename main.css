@@ -25,9 +25,9 @@ body {
   /* background-image: url("EdAstra.png"); */
   background-size: 100% 70%;
   background-repeat: no-repeat;
-  padding: 5% 5%;
+  padding: 3% 5%;
+  padding-bottom: 0;
 }
-
 
 
 .rocket-mage {
@@ -74,7 +74,18 @@ body {
   background: #ffcc31;
   background-size: 100% 70%;
   background-repeat: no-repeat;
-  padding: 10% 5%;
+  padding: 5% 0%;
+}
+
+#Copyright-container {
+  text-align: center;
+  padding-top: 5%;
+  width: 100%;
+}
+
+#copyright {
+  display: inline-block;
+  color: black;
 }
 
 input,
