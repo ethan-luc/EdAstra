@@ -36,7 +36,7 @@ body {
 }
 
 .main-title {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 2;
   color: black;
   align-content: center;
@@ -45,9 +45,9 @@ body {
 }
 
 .sub-line {
-  font-size: x-large;
+  font-size: large;
   font-weight: 8;
-  color: darkgray;
+  color: black;
   /* margin: 0 20%; */
   /* margin-left: 25%; */
 }
