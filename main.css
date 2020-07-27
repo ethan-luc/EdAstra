@@ -39,7 +39,7 @@ h1 {
 /* Animation */
 h1 {
   animation: animated-text 3s steps(30,end) 1s 1 normal both,
-             animated-cursor 600ms steps(29,end) infinite;
+             animated-cursor 1000ms steps(29,end) infinite;
 }
 
 /* text animation */
