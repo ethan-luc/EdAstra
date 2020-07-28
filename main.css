@@ -235,7 +235,7 @@ section {
 
 h2 {
   font-size: 2rem;
-  font-weight: 500;
+  font-weight: bold;
 }
 
 details[open] summary ~ * {
