@@ -104,13 +104,9 @@ h1 {
   margin-bottom: 1rem;
 }
 
-.row {
-  display: flex;
-}
-
-.column {
-  flex: 33.33%;
-  padding: 5px;
+.about-us {
+  text-align: center;
+  padding-bottom: 5%;
 }
 
 .faq-container {
