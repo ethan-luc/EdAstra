@@ -45,7 +45,7 @@ h1 {
 /* text animation */
 @keyframes animated-text{
   from{width: 0;}
-  to{width: 333px;}
+  to{width: 190px;}
 }
 
 /* cursor animations */
